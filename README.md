@@ -1,7 +1,5 @@
 # Deep Learning with PyTorch: CNN Implementation and Evaluation
 
-In this task, you will be implementing a Convolutional Neural Network (CNN) using PyTorch. You can choose to work with either the CIFAR-10 or Fashion-MNIST dataset. The task consists of the following steps:
-
 ## 1. Dataset Selection
 
 - Select either the CIFAR-10 or Fashion-MNIST dataset for your implementation.
